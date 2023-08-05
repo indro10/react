@@ -1,0 +1,27 @@
+{
+  "name": "react-adv",
+  "version": "1.0.0",
+  "description": "Project is created to explore more into react and find and fill learning gaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indro10/react.git"
+  },
+  "author": "Indranath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indro10/react/issues"
+  },
+  "homepage": "https://github.com/indro10/react#readme",
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}

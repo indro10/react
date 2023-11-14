@@ -4,6 +4,8 @@
   "description": "Project is created to explore more into react and find and fill learning gaps",
   "main": "index.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -19,7 +21,9 @@
   "dependencies": {
     "parcel": "^2.9.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.18.0",
+    "styled-components": "^6.1.1"
   },
   "devDependencies": {
     "process": "^0.11.10"
